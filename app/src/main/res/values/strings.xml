@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">w3d4-as1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lbl_generateBTN">GENERATE USER</string>
+    <string name="lbl_saveBTN">SAVE</string>
+    <string name="lbl_listBTN">LIST</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
